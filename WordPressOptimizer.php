@@ -7,6 +7,7 @@ declare(strict_types=1);
  * Description:     optimize some basic WordPress Options, to be faster and secure
  * Version:         1.1
  * Requires PHP:    7.0
+ * Requires at least: 5.5.0
  * Author:          Tobias Keller
  * Author URI:      https://tobier.de
  * License:         MIT
