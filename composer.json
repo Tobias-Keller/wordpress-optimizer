@@ -1,0 +1,22 @@
+{
+  "name": "tkeller/wordpress_optimizer",
+  "description": "optimize some basic WordPress Options, to be faster and secure",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tobias Keller",
+      "email": "info@tobier.de"
+    }
+  ],
+  "require": {
+  },
+  "require-dev": {
+    "inpsyde/php-coding-standards": "^0.13.4"
+  },
+  "autoload": {
+    "psr-4": {
+    "TK_WORDPRESS_OPTIMIZER\\": "./classes"
+    }
+  }
+}
