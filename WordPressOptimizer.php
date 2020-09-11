@@ -12,7 +12,7 @@ declare(strict_types=1);
  * License:         MIT
  * Text Domain:     wordpress-optimizer
  * Domain Path:     /languages
- * Details URI:     https://plugins.tobier.de/wp-content/uploads/2020/09/randomProducts.md
+ * Details URI:     https://raw.githubusercontent.com/Tobias-Keller/wordpress-optimizer/master/readme.md
  * Icon1x:          https://plugins.tobier.de/wp-content/uploads/2020/09/icon-128x128-1.png
  * Icon2x:          https://plugins.tobier.de/wp-content/uploads/2020/09/icon-256x256-1.png
  * BannerHigh:      https://plugins.tobier.de/wp-content/uploads/2020/09/banner-1544x500-1.png
