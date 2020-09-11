@@ -5,7 +5,7 @@ declare(strict_types=1);
  * Plugin Name:     WordPress Optimizer
  * Plugin URI:      https://plugins.tobier.de/wordpress-optimizer
  * Description:     optimize some basic WordPress Options, to be faster and secure
- * Version:         1.0
+ * Version:         1.1
  * Requires PHP:    7.0
  * Author:          Tobias Keller
  * Author URI:      https://tobier.de
@@ -13,10 +13,10 @@ declare(strict_types=1);
  * Text Domain:     wordpress-optimizer
  * Domain Path:     /languages
  * Details URI:     https://raw.githubusercontent.com/Tobias-Keller/wordpress-optimizer/master/readme.md
- * Icon1x:          https://plugins.tobier.de/wp-content/uploads/2020/09/icon-128x128-1.png
- * Icon2x:          https://plugins.tobier.de/wp-content/uploads/2020/09/icon-256x256-1.png
- * BannerHigh:      https://plugins.tobier.de/wp-content/uploads/2020/09/banner-1544x500-1.png
- * BannerLow:       https://plugins.tobier.de/wp-content/uploads/2020/09/banner-772x250-1.png
+ * Icon1x:          https://plugins.tobier.de/wp-content/uploads/2020/09/Icon1x.png
+ * Icon2x:          https://plugins.tobier.de/wp-content/uploads/2020/09/Icon2x.png
+ * BannerHigh:      https://plugins.tobier.de/wp-content/uploads/2020/09/bannerHigh_wordpress_optimizer.png
+ * BannerLow:       https://plugins.tobier.de/wp-content/uploads/2020/09/bannerLow_wordpress_optimizer.png
  */
 
 require_once(plugin_dir_path(__FILE__) . 'vendor/autoload.php');
