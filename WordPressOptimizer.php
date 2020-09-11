@@ -3,7 +3,7 @@ declare(strict_types=1);
 
 /**
  * Plugin Name:     WordPress Optimizer
- * Plugin URI:      TODO
+ * Plugin URI:      https://plugins.tobier.de/wordpress-optimizer
  * Description:     optimize some basic WordPress Options, to be faster and secure
  * Version:         1.0
  * Requires PHP:    7.0
@@ -12,6 +12,11 @@ declare(strict_types=1);
  * License:         MIT
  * Text Domain:     wordpress-optimizer
  * Domain Path:     /languages
+ * Details URI:     https://plugins.tobier.de/wp-content/uploads/2020/09/randomProducts.md
+ * Icon1x:          https://plugins.tobier.de/wp-content/uploads/2020/09/icon-128x128-1.png
+ * Icon2x:          https://plugins.tobier.de/wp-content/uploads/2020/09/icon-256x256-1.png
+ * BannerHigh:      https://plugins.tobier.de/wp-content/uploads/2020/09/banner-1544x500-1.png
+ * BannerLow:       https://plugins.tobier.de/wp-content/uploads/2020/09/banner-772x250-1.png
  */
 
 require_once(plugin_dir_path(__FILE__) . 'vendor/autoload.php');
