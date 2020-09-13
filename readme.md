@@ -1,5 +1,5 @@
 # WordPress Optimizer
-
+== Description ==
 WordPress creates a lot of Stuff to fitting everyone.  
 This Plugin removes some things that is in lots of cases not needed.
 
