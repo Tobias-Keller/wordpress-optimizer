@@ -11,28 +11,12 @@ class ComposerStaticInit4f094e84178837d1c9e6ce2a0712f13a
         array (
             'TK_WORDPRESS_OPTIMIZER\\' => 23,
         ),
-        'N' => 
-        array (
-            'NeutronStandard\\' => 16,
-        ),
-        'D' => 
-        array (
-            'Dealerdirect\\Composer\\Plugin\\Installers\\PHPCodeSniffer\\' => 55,
-        ),
     );
 
     public static $prefixDirsPsr4 = array (
         'TK_WORDPRESS_OPTIMIZER\\' => 
         array (
             0 => __DIR__ . '/../..' . '/classes',
-        ),
-        'NeutronStandard\\' => 
-        array (
-            0 => __DIR__ . '/..' . '/automattic/phpcs-neutron-standard/NeutronStandard',
-        ),
-        'Dealerdirect\\Composer\\Plugin\\Installers\\PHPCodeSniffer\\' => 
-        array (
-            0 => __DIR__ . '/..' . '/dealerdirect/phpcodesniffer-composer-installer/src',
         ),
     );
 

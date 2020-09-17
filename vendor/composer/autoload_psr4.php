@@ -7,6 +7,4 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'TK_WORDPRESS_OPTIMIZER\\' => array($baseDir . '/classes'),
-    'NeutronStandard\\' => array($vendorDir . '/automattic/phpcs-neutron-standard/NeutronStandard'),
-    'Dealerdirect\\Composer\\Plugin\\Installers\\PHPCodeSniffer\\' => array($vendorDir . '/dealerdirect/phpcodesniffer-composer-installer/src'),
 );

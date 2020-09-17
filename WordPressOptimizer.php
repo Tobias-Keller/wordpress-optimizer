@@ -5,7 +5,7 @@ declare(strict_types=1);
  * Plugin Name:     WordPress Optimizer
  * Plugin URI:      https://plugins.tobier.de/wordpress-optimizer
  * Description:     optimize some basic WordPress Options, to be faster and secure
- * Version:         1.1
+ * Version:         1.2
  * Requires PHP:    7.0
  * Requires at least: 5.5.0
  * Author:          Tobias Keller
